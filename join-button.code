@@ -1,0 +1,4 @@
+Custom HTML in the Top Nav widget:
+
+<a href="./?page_id=38" class="md d-none d-md-block btn btn-info btn-lg active" role="button">Join CREST</a>
+<a href="./?page_id=38" class="xs d-md-none btn btn-info btn-sm active" role="button">Join CREST</a>

@@ -1,0 +1,4 @@
+Custom HTML in footer 3
+
+<a class="btn btn-primary mb-2" style="background-color: #55acee;" href="https://twitter.com/crestnsw?ref_src=twsrc%5Etfw" role="button" target="_blank"><i class="fab fa-twitter me-2"></i>Follow @crestnsw</a>
+<a href="https://www.facebook.com/groups/961924863928717/about" class="btn btn-primary mb-1" style="background-color: #3b5998;"  role="button" target="_blank"><i class="fab fa-facebook me-1"></i>Join our Facebook Group</a>

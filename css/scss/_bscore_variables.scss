@@ -1,0 +1,9 @@
+// In this file you can override the default variables of Bootstrap
+// Do you want primary to be green? Just add "$primary: #00FF00;" to this file and the theme will automatically compile the scss for you.
+$light-indigo: #bebec0 !default;
+$crest-blue: #363985 !default;
+$crest-light: #5b5fd1 !default;
+$info: #363985 !default;
+$white: #fff;
+
+$menu-bg-gradient: linear-gradient($white, $light-indigo);
